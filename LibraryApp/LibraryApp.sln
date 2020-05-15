@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryApp", "LibraryApp.csproj", "{B6764264-0A12-41B2-8DD2-B0F896E9CDAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6764264-0A12-41B2-8DD2-B0F896E9CDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6764264-0A12-41B2-8DD2-B0F896E9CDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6764264-0A12-41B2-8DD2-B0F896E9CDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6764264-0A12-41B2-8DD2-B0F896E9CDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
